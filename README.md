@@ -5,6 +5,8 @@
 # 👨‍💻 Tech Stack Used:
 - Power BI Desktop
 - DAX language
+- Power Query
+- Power BI Service
 - DAX Studio (Used for optimizing the report)
 # 🎓 Learning Highlights:
 - Data Import and Transformation:
